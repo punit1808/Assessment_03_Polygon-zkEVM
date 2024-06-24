@@ -10,7 +10,7 @@ It implements the logic we are given in the diagram, it contains AND , OR and NO
 A : 0, 
 B : 1,
 
-LOGIC : OUTPUT => (A AND B) OR (NOT(B)) => 1
+LOGIC : OUTPUT => (A AND B) OR (NOT(B)) => 0
 
 ## Getting Started
 
