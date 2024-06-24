@@ -25,8 +25,8 @@ const config: HardhatUserConfig = {
   },
   networks: {
     sepolia: {
-      url: `https://sepolia.infura.io/v3/f04f539aab674c73b176be28bd2b66ad`,
-      accounts: ['ce76a28aa3f60a7f7bfa82d15ac0904265584aec6641f02fb43a4dbea491209b'],
+      url: `https://sepolia.infura.io/v3/{INFURA PROJECT_ID}`,
+      accounts: ['//PRIVATE KEY'],
     },
   },
   circom: {
